@@ -1,0 +1,50 @@
+{
+    "diamond": {
+        "branch": "master",
+        "description": "Accelerated BLAST compatible local sequence aligner.",
+        "homepage": "http://www.diamondsearch.org/",
+        "owner": "jefdaj",
+        "repo": "diamond-nix",
+        "rev": "b5301a136b3dad095bc5d222acefd6682e993844",
+        "sha256": "0hrxhpbwlwfg79r2dphw3sxvr4vjsnfyb0nrxa6cj30s7kh8gqil",
+        "type": "tarball",
+        "url": "https://github.com/jefdaj/diamond-nix/archive/b5301a136b3dad095bc5d222acefd6682e993844.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "mmseqs2": {
+        "branch": "master",
+        "description": "MMseqs2: ultra fast and sensitive search and clustering suite",
+        "homepage": "https://mmseqs.com",
+        "owner": "jefdaj",
+        "repo": "mmseqs2-nix",
+        "rev": "711b0895d89b6be50fc8aa60537549218ab4e4b7",
+        "sha256": "1pk3khsv993q142m3qa87aismihdmpi574d5gwifffvgrhpvam4p",
+        "type": "tarball",
+        "url": "https://github.com/jefdaj/mmseqs2-nix/archive/711b0895d89b6be50fc8aa60537549218ab4e4b7.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "niv": {
+        "branch": "master",
+        "description": "Easy dependency management for Nix projects",
+        "homepage": "https://github.com/nmattia/niv",
+        "owner": "nmattia",
+        "repo": "niv",
+        "rev": "9d35b9e4837ab88517210b1701127612c260eccf",
+        "sha256": "0q50xhnm8g2yfyakrh0nly4swyygxpi0a8cb9gp65wcakcgvzvdh",
+        "type": "tarball",
+        "url": "https://github.com/nmattia/niv/archive/9d35b9e4837ab88517210b1701127612c260eccf.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "release-20.09",
+        "description": "Nix Packages collection",
+        "homepage": null,
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "43e8ec412fdf428ef32c8d56939c99dd48254c49",
+        "sha256": "06j78xs55xar7a1fr27paag788j9r7kgbwahz21wcd663g0r5afd",
+        "type": "tarball",
+        "url": "https://github.com/nixos/nixpkgs/archive/43e8ec412fdf428ef32c8d56939c99dd48254c49.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
