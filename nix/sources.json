@@ -11,6 +11,13 @@
         "url": "https://github.com/jefdaj/diamond-nix/archive/b5301a136b3dad095bc5d222acefd6682e993844.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
+    "mcl": {
+        "sha256": "13bmml5592xfc5mx05m3py9xb53cnp7nkfm91xhwlvv7d8gqxvhi",
+        "type": "tarball",
+        "url": "https://micans.org/mcl/src/mcl-14-137.tar.gz",
+        "url_template": "https://micans.org/mcl/src/mcl-<version>.tar.gz",
+        "version": "14-137"
+    },
     "mmseqs2": {
         "branch": "master",
         "description": "MMseqs2: ultra fast and sensitive search and clustering suite",
