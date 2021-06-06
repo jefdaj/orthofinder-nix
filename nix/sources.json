@@ -5,10 +5,10 @@
         "homepage": "http://www.diamondsearch.org/",
         "owner": "jefdaj",
         "repo": "diamond-nix",
-        "rev": "b5301a136b3dad095bc5d222acefd6682e993844",
-        "sha256": "0hrxhpbwlwfg79r2dphw3sxvr4vjsnfyb0nrxa6cj30s7kh8gqil",
+        "rev": "900595fbd7643e5fd468f6f2786172a603a38fcb",
+        "sha256": "0ch77lk8ji868mbr7cq1bxhhq16v2bqf8daf392bwajgcczq8xr2",
         "type": "tarball",
-        "url": "https://github.com/jefdaj/diamond-nix/archive/b5301a136b3dad095bc5d222acefd6682e993844.tar.gz",
+        "url": "https://github.com/jefdaj/diamond-nix/archive/900595fbd7643e5fd468f6f2786172a603a38fcb.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "mcl": {
@@ -24,10 +24,10 @@
         "homepage": "https://mmseqs.com",
         "owner": "jefdaj",
         "repo": "mmseqs2-nix",
-        "rev": "711b0895d89b6be50fc8aa60537549218ab4e4b7",
-        "sha256": "1pk3khsv993q142m3qa87aismihdmpi574d5gwifffvgrhpvam4p",
+        "rev": "18199c8c986b4335d143d214b4fd7b7b42a63415",
+        "sha256": "11imp5ndih7vl5fpr7y17ikkm11ymz7r4jh4gcvf2znj68610xfr",
         "type": "tarball",
-        "url": "https://github.com/jefdaj/mmseqs2-nix/archive/711b0895d89b6be50fc8aa60537549218ab4e4b7.tar.gz",
+        "url": "https://github.com/jefdaj/mmseqs2-nix/archive/18199c8c986b4335d143d214b4fd7b7b42a63415.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "niv": {
