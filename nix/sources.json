@@ -12,11 +12,16 @@
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "mcl": {
-        "sha256": "13bmml5592xfc5mx05m3py9xb53cnp7nkfm91xhwlvv7d8gqxvhi",
+        "branch": "master",
+        "description": null,
+        "homepage": null,
+        "owner": "jefdaj",
+        "repo": "mcl-nix",
+        "rev": "c974fe8d44799a64478a390cc45a67b1103500b7",
+        "sha256": "0y7ayzfh9l13hl8ql7s3rn128gdl0fd4xh03lz9xakibf36zfckq",
         "type": "tarball",
-        "url": "https://micans.org/mcl/src/mcl-14-137.tar.gz",
-        "url_template": "https://micans.org/mcl/src/mcl-<version>.tar.gz",
-        "version": "14-137"
+        "url": "https://github.com/jefdaj/mcl-nix/archive/c974fe8d44799a64478a390cc45a67b1103500b7.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "mmseqs2": {
         "branch": "master",
