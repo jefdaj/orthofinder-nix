@@ -11,6 +11,30 @@
         "url": "https://github.com/jefdaj/diamond-nix/archive/39890cfdfba5a1811ea104013df952f44ef53c3f.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
+    "fastme": {
+        "branch": "master",
+        "description": null,
+        "homepage": null,
+        "owner": "jefdaj",
+        "repo": "fastme-nix",
+        "rev": "1a6bf05aa9626f71d67e8c0334bae95adc66b0a3",
+        "sha256": "042ycia9kypayys3i52wzfwww4dqp9cfix65k64km5ka0isd2d7i",
+        "type": "tarball",
+        "url": "https://gitlab.com/jefdaj/fastme-nix/-/archive/1a6bf05aa9626f71d67e8c0334bae95adc66b0a3/fastme-nix-1a6bf05aa9626f71d67e8c0334bae95adc66b0a3.tar.gz",
+        "url_template": "https://gitlab.com/<owner>/<repo>/-/<rev>/<repo>-<rev>.tar.gz"
+    },
+    "mcl": {
+        "branch": "master",
+        "description": null,
+        "homepage": null,
+        "owner": "jefdaj",
+        "repo": "mcl-nix",
+        "rev": "c974fe8d44799a64478a390cc45a67b1103500b7",
+        "sha256": "0y7ayzfh9l13hl8ql7s3rn128gdl0fd4xh03lz9xakibf36zfckq",
+        "type": "tarball",
+        "url": "https://github.com/jefdaj/mcl-nix/archive/c974fe8d44799a64478a390cc45a67b1103500b7.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
     "mcl": {
         "branch": "master",
         "description": null,
@@ -33,6 +57,18 @@
         "sha256": "11imp5ndih7vl5fpr7y17ikkm11ymz7r4jh4gcvf2znj68610xfr",
         "type": "tarball",
         "url": "https://github.com/jefdaj/mmseqs2-nix/archive/18199c8c986b4335d143d214b4fd7b7b42a63415.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "ncbi-blast": {
+        "branch": "master",
+        "description": null,
+        "homepage": null,
+        "owner": "jefdaj",
+        "repo": "ncbi-blast-nix",
+        "rev": "f5903466109a3a8e6cf2f3dd071b2ace8efdca46",
+        "sha256": "12m6zdxm1rxr8qbi0kg82n2m5l9vg8yk36kc8bvg82n6k7hjj9f8",
+        "type": "tarball",
+        "url": "https://github.com/jefdaj/ncbi-blast-nix/archive/f5903466109a3a8e6cf2f3dd071b2ace8efdca46.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "niv": {

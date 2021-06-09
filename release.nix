@@ -3,9 +3,9 @@ let
   pkgs       = import sources.nixpkgs   {};
   diamond    = pkgs.callPackage sources.diamond {};
 
-  mcl        = pkgs.callPackage ../mcl-nix        {}; # TODO upload repo and import via niv
-  fastme     = pkgs.callPackage ../fastme-nix     {}; # TODO upload repo and import via niv
-  ncbi-blast = pkgs.callPackage ../ncbi-blast-nix {}; # TODO upload repo and import via niv
+  mcl        = pkgs.callPackage sources.mcl        {};
+  fastme     = pkgs.callPackage sources.fastme     {};
+  ncbi-blast = pkgs.callPackage sources.ncbi-blast {};
 
 in pkgs.callPackage ./default.nix {
   inherit (pkgs.lib) makeBinPath;
